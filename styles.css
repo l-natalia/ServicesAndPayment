@@ -247,6 +247,8 @@ input:checked ~ .custom-radio-btn:after {
   font-size: 14px;
   color: #908e8e;
   cursor: pointer;
+  border: none;
+  outline: none;
 }
 .steps button.active {
   background-color: #eb5e55;
